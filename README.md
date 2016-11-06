@@ -1,0 +1,2 @@
+# TestCalendarMailRu
+TestProject for Universarium
